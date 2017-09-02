@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/miladshafiee/miladshafiee.github.io.git
