@@ -19,21 +19,24 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MEng in Mechanical Engineering"
-  institution = "University of Tehran"
-  year = 2017
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
- course = "BSc in Mechanical Engineering"
-  institution = "Babol University of Technology"
-  year = 2014
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
 +++
 
 # Biography
 
-My name is Milad shafiee. I am a robotics researcher focusing on the use of optimization algorithms for control, planning of legged robots. Since 2017 I am a lead of dynamic and control group of SURENA 4 humanoid robot project  in the Center of Advanced Systems and Technologies(CAST) at University of Tehran, where I work with the humanoid robot SURENA 3 and Mini-SURENA. 
-
-
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
