@@ -26,8 +26,8 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "SurenaProject"
-  tag = ".SurenaProject"
+  name = "Deep Learning"
+  tag = ".deep-learning"
 
 [[filter]]
   name = "Other"
