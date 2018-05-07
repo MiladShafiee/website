@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2015-04-27T00:00:00
 
 # Project title.
 title = "Selected Undergraduate Projects"
 
 # Project summary to display on homepage.
-summary = "This page includes some of selected my undergraduate projects"
+summary = "This page includes some of my undergraduate projects"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ext.jpg"
+image_preview = "bachelor.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -64,8 +64,6 @@ Our goal was to design and fabrication of a high-speed autonomous mini-boat. Aft
 
 
 
-The  video of sample experiment is as following:
-{{< youtube 2pPhKCSmwwo >}}
 
 ---
 

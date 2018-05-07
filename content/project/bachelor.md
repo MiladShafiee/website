@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2015-04-27T00:00:00
 
 # Project title.
 title = "Selected Undergraduate Projects"
 
 # Project summary to display on homepage.
-summary = "This page includes some of selected my undergraduate projects"
+summary = "This page includes some of my undergraduate projects"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ext.jpg"
+image_preview = "bachelor.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -59,13 +59,11 @@ of the Springer publisher. </div>
 ### First rank in The 2ND Autonomous Surface Vehicle (ASV) Competition
 
 #### Sep 2011 – Mar 2013
-<div style="text-align: justify"> Design and implementation of an unmanned autonomous boat in 2nd ASV (Autonomous Surface Vehicle) competition (Sharif University of Technology). 
+<div style="text-align: justify"> Design and implementation of an autonomous boat in 2nd ASV (Autonomous Surface Vehicle) competition (Sharif University of Technology). 
 Our goal was to design and fabrication of a high-speed autonomous mini-boat. After 9 month of massive teamwork for conceptual and detail design, we reached a final design for implementation. Integrating a GPS with a Compass autonomous system of the boat accomplished, We ranked first in all of items of the competition including speed, maneuver, autonomous circle and autonomous spiral. My specific task in design process was hydrostatic and stability analysis with the goal of incrasing maneuverability. The following video shows how stable and Maneuverable this boat is! During fabrication process my task was bold making and also I involved in programming and implementation of autonomies algorithms. </div>
 
 
 
-The  video of sample experiment is as following:
-{{< youtube 2pPhKCSmwwo >}}
 
 ---
 
